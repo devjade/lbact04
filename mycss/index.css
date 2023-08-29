@@ -7,6 +7,16 @@ h1 {
     font-family: Poppins;
 }
 
+img {
+    max-width: 100%;
+    max-heigh: 100%;
+}
+
+.profilepic {
+    width: 200px;
+    height: 300px;
+}
+
 p {
     font-family:Poppins;
     font-size: px;
